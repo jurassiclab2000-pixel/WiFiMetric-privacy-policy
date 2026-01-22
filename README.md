@@ -12,6 +12,7 @@ This Privacy Policy describes how our mobile application handles user informatio
 
 ### Opt-out You can opt-out of interest-based advertising through your Android device settings (Google Settings > Ads).
 
+### [Privacy Policy](https://jurassiclab2000-pixel.github.io/WiFiMetric-privacy-policy/)
 
 # WifiMetric 隱私權政策
 
@@ -25,3 +26,5 @@ This Privacy Policy describes how our mobile application handles user informatio
   * [AdMob](https://support.google.com/admob/answer/6128543)
 
 ### 退出權利 您可以透過 Android 裝置設定（Google 設定 > 廣告）來關閉個人化廣告。
+
+### [Privacy Policy](https://jurassiclab2000-pixel.github.io/WiFiMetric-privacy-policy/)
